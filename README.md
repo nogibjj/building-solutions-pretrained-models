@@ -1,29 +1,15 @@
 [![CI](https://github.com/nogibjj/mlops-template/actions/workflows/cicd.yml/badge.svg?branch=GPU)](https://github.com/nogibjj/mlops-template/actions/workflows/cicd.yml)
 [![Codespaces Prebuilds](https://github.com/nogibjj/mlops-template/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg?branch=GPU)](https://github.com/nogibjj/mlops-template/actions/workflows/codespaces/create_codespaces_prebuilds)
 
-## Template for MLOPs projects with GPU
+## Hugging Face
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+Building Solutions with Pre-Trained Models
 
-Things included are:
+### Platform
+### Datasets
+### Models
+### Spaces
 
-* `Makefile`
-
-* `Pytest`
-
-* `pandas`
-
-* `Pylint`
-
-* `Dockerfile`
-
-* `GitHub copilot`
-
-* `jupyter` and `ipython` 
-
-* Most common Python libraries for ML/DL and Hugging Face
-
-* `githubactions` 
 
 ## Two fun tools to explore:
 
